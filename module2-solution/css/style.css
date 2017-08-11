@@ -5,6 +5,7 @@
 }
 h1 {
   margin-bottom: 15px;
+  font-size: 1.75em;
   text-align: center;
 }
 
@@ -19,7 +20,7 @@ h1 {
 .mealtext {
   margin-right: 10px;
   margin-left: 10px;
-  margin-top: 40px;
+  margin-top: 45px;
   color: white;
 }
 /** menu titles **/
@@ -32,6 +33,7 @@ h1 {
   margin: 0px;
   padding: 5px;
   text-align: center;
+  font-size: 1.25em;
   color: white;
 }
 #t1 {
