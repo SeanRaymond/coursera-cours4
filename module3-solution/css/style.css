@@ -1,4 +1,27 @@
 * {
-  box-sizing: border-box;
   font-family: "Helvetica",sans-serif;
 }
+
+.navbar-brand h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#text-info {
+	height: 1000px;
+	background: grey;
+}
+#text-info p {
+	margin: 20px 10px;
+}
+#nav-list {
+	background: #9eceff;
+	}
+#nav-list hr {
+	margin: 0;
+	}
