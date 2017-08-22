@@ -35,7 +35,7 @@ WARNING!!! WARNING!!!
  
   for (var prop in names) {
     var letter = names[prop].charAt(0);
-    if (letter.toLowerCase() == "j") {
+    if (letter.toLowerCase() === "j") {
       byeSpeaker.speak(names[prop]);
     } else {
       helloSpeaker.speak(names[prop]);
